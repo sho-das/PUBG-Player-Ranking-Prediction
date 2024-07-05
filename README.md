@@ -540,6 +540,9 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb9-1"><a hr
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>sns.countplot(data <span class="op">=</span> df[df[<span class="st">&#39;playersJoined&#39;</span>]<span class="op">&gt;=</span><span class="dv">75</span>],x <span class="op">=</span> <span class="st">&#39;playersJoined&#39;</span>)</span>
 <span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<p><img
+src="https://www.kaggleusercontent.com/kf/186786731/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..JFP9uXXGGNKGhEQ0ynbiqg.8hGWiBr_Dmi-Vv5spka5NUcShZsxd6cxH436BSOvUaEpABw0m5a-4nQK6u9ndHvexE6YfBEx2dxmgTp_FLcSRKfboderxTG8uFSNce1ZpmROhWoxyBKos1uJbJEOTVfFSMaGjTMyXCiUoj4nBGOwhuFXOxp-LI4Y4FeT-wF7o2p1vitD0TvAd61FPUiudQ9przsSo3O7R7cOxsesSKGuOz7jIfZbFQsn_XRYZrdhfrk9GdI9qgEVVBy3lxB9X3ZKfe1xhA8UfOS4McDvfSeRo2HC43isZ-fPFrc3E6DP0NhO0ggUgsvtFYWKY7L81n-wbZgCqSX4OMCEHbAiRmwLXn4B3M00llzwI4iwO1Jdg8SaxD3eCy28nOsGjTC2ZzTydZi721VB5Mgtaw3Z1lxxusGpQiaeGfsNfkKr8CGxJHStRBypmFhnwfdrOeMs4vqfzE4TsjFNbMzqwr77piZ-_XcE8nopmZ3LfS-Oi3OxmHGtG4ddmYURL_B1KZA_Eqv_4NKxeI3ZJL9eG3VlBahXdqec6LZC7GtRIu-1R-OEDEpMDTh6mrnDkJp8vzJ4EhUoiZ5Kmw9uVLwBzc1lOkkWAAcsmfaVmsp5abG0qrKJzlz_vJVogy_tGsn329QZzLdFBoH9p3JYWSPCJ0TGpadlZwzn9gZ1C8pTla73Vst_bZI.EeyxtCntBAjpKmA89vkinw/__results___files/__results___21_0.png" /></p>
+
 </div>
 <section id="observation" class="cell markdown">
 <h6>Observation:</h6>
@@ -632,6 +635,8 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb16-1"><a h
 <span id="cb16-6"><a href="#cb16-6" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 </div>
 <section id="observation" class="cell markdown">
+<p><img
+src="https://www.kaggleusercontent.com/kf/186786731/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..JFP9uXXGGNKGhEQ0ynbiqg.8hGWiBr_Dmi-Vv5spka5NUcShZsxd6cxH436BSOvUaEpABw0m5a-4nQK6u9ndHvexE6YfBEx2dxmgTp_FLcSRKfboderxTG8uFSNce1ZpmROhWoxyBKos1uJbJEOTVfFSMaGjTMyXCiUoj4nBGOwhuFXOxp-LI4Y4FeT-wF7o2p1vitD0TvAd61FPUiudQ9przsSo3O7R7cOxsesSKGuOz7jIfZbFQsn_XRYZrdhfrk9GdI9qgEVVBy3lxB9X3ZKfe1xhA8UfOS4McDvfSeRo2HC43isZ-fPFrc3E6DP0NhO0ggUgsvtFYWKY7L81n-wbZgCqSX4OMCEHbAiRmwLXn4B3M00llzwI4iwO1Jdg8SaxD3eCy28nOsGjTC2ZzTydZi721VB5Mgtaw3Z1lxxusGpQiaeGfsNfkKr8CGxJHStRBypmFhnwfdrOeMs4vqfzE4TsjFNbMzqwr77piZ-_XcE8nopmZ3LfS-Oi3OxmHGtG4ddmYURL_B1KZA_Eqv_4NKxeI3ZJL9eG3VlBahXdqec6LZC7GtRIu-1R-OEDEpMDTh6mrnDkJp8vzJ4EhUoiZ5Kmw9uVLwBzc1lOkkWAAcsmfaVmsp5abG0qrKJzlz_vJVogy_tGsn329QZzLdFBoH9p3JYWSPCJ0TGpadlZwzn9gZ1C8pTla73Vst_bZI.EeyxtCntBAjpKmA89vkinw/__results___files/__results___35_0.png" /></p>
 <h6>Observation:</h6>
 <p>Maximum people kills upto maximum 12 players.</p>
 </section>
@@ -643,6 +648,8 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb17-1"><a h
 <span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">&quot;Count of players&quot;</span>)</span>
 <span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a>plt.xlabel(<span class="st">&quot;Number of Kills&quot;</span>)</span>
 <span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<p><img
+src="https://github.com/sho-das/PUBG-Player-Ranking-Prediction/blob/main/images/__results___37_0.png" /></p>
 </div>
 <div class="cell code">
 <div class="sourceCode" id="cb18"><pre
@@ -684,6 +691,8 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb21-1"><a h
 <span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a>sns.distplot(df[<span class="st">&#39;headshot_rate&#39;</span>], bins <span class="op">=</span><span class="dv">10</span>).set_title(<span class="st">&quot;Distplot showing the distribution of headshot rate&quot;</span>)</span>
 <span id="cb21-4"><a href="#cb21-4" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">&quot;Count of players&quot;</span>)</span>
 <span id="cb21-5"><a href="#cb21-5" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<p><img
+src="https://github.com/sho-das/PUBG-Player-Ranking-Prediction/blob/main/images/__results___44_0.png" /></p>
 </div>
 <div class="cell code">
 <div class="sourceCode" id="cb22"><pre
@@ -725,6 +734,8 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb24-1"><a h
 <span id="cb24-3"><a href="#cb24-3" aria-hidden="true" tabindex="-1"></a>sns.distplot(df[<span class="st">&#39;longestKill&#39;</span>], bins <span class="op">=</span> <span class="dv">50</span>).set_title(<span class="st">&quot;Histogram showing the Longest Kill Distribution&quot;</span>)</span>
 <span id="cb24-4"><a href="#cb24-4" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">&quot;Count of players&quot;</span>)</span>
 <span id="cb24-5"><a href="#cb24-5" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<p><img
+src="https://github.com/sho-das/PUBG-Player-Ranking-Prediction/blob/main/images/__results___49_0.png" /></p>
 </div>
 <div class="cell code">
 <div class="sourceCode" id="cb25"><pre
@@ -761,6 +772,8 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb27-1"><a h
 <span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a>sns.distplot(df[<span class="st">&#39;weaponsAcquired&#39;</span>], bins<span class="op">=</span><span class="dv">100</span>).set_title(<span class="st">&quot;Weapons Distribution&quot;</span>)</span>
 <span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<p><img
+src="https://github.com/sho-das/PUBG-Player-Ranking-Prediction/blob/main/images/__results___54_0.png" /></p>
 </div>
 <div class="cell code">
 <div class="sourceCode" id="cb28"><pre
@@ -802,6 +815,8 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb32-1"><a h
 <span id="cb32-3"><a href="#cb32-3" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>[<span class="dv">30</span>,<span class="dv">30</span>])</span>
 <span id="cb32-4"><a href="#cb32-4" aria-hidden="true" tabindex="-1"></a>sns.heatmap(df.corr(numeric_only <span class="op">=</span> <span class="va">True</span>), annot <span class="op">=</span> <span class="va">True</span>)</span>
 <span id="cb32-5"><a href="#cb32-5" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
+<p><img
+src="https://github.com/sho-das/PUBG-Player-Ranking-Prediction/blob/main/images/__results___61_0.png" /></p>
 </div>
 <div class="cell markdown"
 data-execution="{&quot;iopub.execute_input&quot;:&quot;2024-07-03T07:32:49.377708Z&quot;,&quot;iopub.status.busy&quot;:&quot;2024-07-03T07:32:49.376846Z&quot;,&quot;iopub.status.idle&quot;:&quot;2024-07-03T07:32:49.388886Z&quot;,&quot;shell.execute_reply&quot;:&quot;2024-07-03T07:32:49.386488Z&quot;,&quot;shell.execute_reply.started&quot;:&quot;2024-07-03T07:32:49.377638Z&quot;}">
